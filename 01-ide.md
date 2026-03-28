@@ -1,6 +1,6 @@
 # 01 — Usar un editor de código (IDE)
 
-[← Índice](index.md) | [Siguiente: Configurar proyecto →](02-configurar-proyecto.md)
+[← Índice](README.md) | [Siguiente: Configurar proyecto →](02-configurar-proyecto.md)
 
 ---
 

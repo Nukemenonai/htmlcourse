@@ -1,6 +1,6 @@
 # 13 — Flexbox
 
-[← Modelo de caja](12-modelo-caja.md) | [← Índice](index.md)
+[← Modelo de caja](12-modelo-caja.md) | [← Índice](README.md)
 
 ---
 
@@ -317,4 +317,4 @@ nav {
 
 ---
 
-[← Modelo de caja](12-modelo-caja.md) | [← Índice](index.md)
+[← Modelo de caja](12-modelo-caja.md) | [← Índice](README.md)
