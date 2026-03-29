@@ -181,4 +181,10 @@ Estructura tus selectores de menor a mayor especificidad en el archivo CSS:
 
 ---
 
+## Recurso para practicar
+
+**[CSS Diner](https://flukeout.github.io)** — un juego interactivo donde practicas selectores CSS seleccionando elementos de una mesa. Cubre selectores de etiqueta, clase, ID, combinadores, pseudoclases y más, con 32 niveles de dificultad progresiva.
+
+---
+
 [← ¿Dónde escribir CSS?](09-donde-escribir-css.md) | [Siguiente: Colores y fuentes →](11-colores-fuentes.md)

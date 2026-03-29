@@ -317,4 +317,10 @@ nav {
 
 ---
 
+## Recurso para practicar
+
+**[Flexbox Froggy](https://flexboxfroggy.com/#es)** — un juego interactivo donde guías a una rana hasta su lilypad usando propiedades de Flexbox. Cubre `justify-content`, `align-items`, `flex-direction`, `flex-wrap` y más en 24 niveles. Disponible en español.
+
+---
+
 [← Modelo de caja](12-modelo-caja.md) | [← Índice](README.md)
