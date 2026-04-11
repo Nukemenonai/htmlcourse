@@ -20,6 +20,7 @@ Un IDE te ayuda con:
 ## ¿Qué IDE usaremos?
 
 Para este curso usaremos **Visual Studio Code** (también llamado VS Code). Es gratuito, muy popular y funciona en Windows, Mac y Linux.
+Como alternativa pueden usar sublime, cursor, o un bloc de notas.
 
 ### Cómo instalarlo
 
