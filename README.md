@@ -32,6 +32,18 @@ Bienvenido al curso básico de HTML y CSS. Este curso está diseñado para perso
 | 12 | El modelo de caja y el inspector de Chrome | [12-modelo-caja.md](12-modelo-caja.md) |
 | 13 | Flexbox | [13-flexbox.md](13-flexbox.md) |
 
+## Parte 4: JavaScript — Repaso para manipulación del DOM y APIs
+
+| # | Tema | Archivo |
+|---|------|---------|
+| 14 | La consola y el navegador: `console.log`, `alert`, `prompt` | [14-js-consola-navegador.md](14-js-consola-navegador.md) |
+| 15 | Datos elementales y estructuras: strings, números, arrays, objetos | [15-js-datos-estructuras.md](15-js-datos-estructuras.md) |
+| 16 | Programación básica: variables, `if/else`, `for`, `while` | [16-js-programacion-basica.md](16-js-programacion-basica.md) |
+| 17 | Funciones: parámetros, `return`, arrow functions | [17-js-funciones.md](17-js-funciones.md) |
+| 18 | Fetch y promesas: `async/await`, JSON, manejo de errores | [18-js-fetch-promesas.md](18-js-fetch-promesas.md) |
+| 19 | Manipulación del DOM: `querySelector`, `addEventListener`, `appendChild` | [19-js-dom.md](19-js-dom.md) |
+| 20 | **Ejercicio integrador:** Pokédex con la PokéAPI | [20-js-pokedex.md](20-js-pokedex.md) |
+
 ---
 
 > **Consejo:** sigue los temas en orden la primera vez. Cada lección asume que ya leíste las anteriores.
