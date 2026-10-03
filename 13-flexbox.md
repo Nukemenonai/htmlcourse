@@ -16,7 +16,7 @@ Flexbox trabaja con dos niveles:
 
 - **Contenedor flex** (flex container): el elemento padre al que le aplicas `display: flex`.
 - **Elementos flex** (flex items): los hijos directos del contenedor.
-
+afdsafkljhadfkjhdfhkjsdfhjkhadfkjh
 ```html
 <div class="contenedor">    <!-- flex container -->
   <div class="item">A</div> <!-- flex item -->

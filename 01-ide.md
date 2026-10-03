@@ -54,6 +54,9 @@ Cuando abres VS Code por primera vez verás estas áreas principales:
 
 ---
 
+hola este es mi cambio
+
+
 ## Extensiones recomendadas
 
 Las extensiones son complementos que agregan funciones extra a VS Code. Para este curso instala:
